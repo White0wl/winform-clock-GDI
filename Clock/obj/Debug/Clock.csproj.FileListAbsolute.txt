@@ -1,0 +1,9 @@
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\bin\Debug\Clock.exe.config
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\bin\Debug\Clock.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\bin\Debug\Clock.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\obj\Debug\Clock.Form1.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\obj\Debug\Clock.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\Clock\Clock\obj\Debug\Clock.pdb
